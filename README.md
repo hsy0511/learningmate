@@ -407,7 +407,79 @@
 ![image](https://github.com/hsy0511/learningmate/assets/104752580/2b4ff552-a221-46c4-b2d1-c078d8cafeac)
 
 # 5차시, 제어문
+## 제어문
+![image](https://github.com/hsy0511/learningmate/assets/104752580/2ec339ef-0f4f-4f01-ac19-f1133cebdcfb)
+## 조건문
+![image](https://github.com/hsy0511/learningmate/assets/104752580/64be8ffa-f0c2-46aa-9e66-dfcc6ed711b9)
+## if문
+![image](https://github.com/hsy0511/learningmate/assets/104752580/09a8d8f7-5f6c-4430-b027-54611b5f3c49)
 
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/0eb47f02-00e4-44e4-a825-45e880b21903)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/7de929e2-7c71-40e7-83f1-e6a729bbc95e)
+## if ~ else문
+![image](https://github.com/hsy0511/learningmate/assets/104752580/f6995a4a-d55b-462e-96b5-d01448f04821)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/0f62958f-5b88-4e35-bc29-75b1d84aeff4)
+## 다중 if ~ else문
+![image](https://github.com/hsy0511/learningmate/assets/104752580/3dc9f585-849a-46f1-b200-1aa534294ba8)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/52b4b74c-221e-4532-bbd7-e0915c53416f)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/682b204e-d690-454b-88b2-c5f51ac3895d)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/d549a6f9-c64a-4841-a6f0-280755cbcff5)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/9cf17d69-152f-41b2-80e2-832293b6edf4)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/9cf85a20-4d2a-49eb-b119-4bc2ca063d56)
+## while문
+![image](https://github.com/hsy0511/learningmate/assets/104752580/a7a34507-2de0-4819-a512-889f159ac4b8)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/1ad39a36-59d1-43c1-b3a5-6fa8d39a8c77)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/9c716ca1-8fcc-4596-b9aa-277c8feebf78)
+## for문
+![image](https://github.com/hsy0511/learningmate/assets/104752580/27dc5e60-ec69-48a9-b9be-6a3b0acb7f86)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/4d824ce6-cc7d-417f-8dbf-3c4bc9ce03e5)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/a30b6d3d-ef34-4a6c-b6c9-1a2b3f006c87)
+## range() 함수
+![image](https://github.com/hsy0511/learningmate/assets/104752580/8b8392f7-75db-418f-b217-4cb81433b4ae)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/93e1d5f7-c481-4a74-bd76-9c376088cad5)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/f4f5557b-a9ee-4eb4-93e0-dd5207b8e267)
+## Enumerate() 함수
+![image](https://github.com/hsy0511/learningmate/assets/104752580/8f174878-63be-45f5-9316-6d8a65d7bba0)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/715b43b4-308e-475b-8533-67b401cf660a)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/db80b286-763a-42b6-95b5-647d2a15e209)
+## 흐름 제어문이란?
+![image](https://github.com/hsy0511/learningmate/assets/104752580/d26e25a4-c10a-469f-baa2-11cc2a497d05)
+## break문
+![image](https://github.com/hsy0511/learningmate/assets/104752580/c41bc2c0-1ea5-447b-82a1-6512cdeab4da)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/bd1aa3b6-c5d9-41cb-b537-9dcd2f4cf09d)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/20bd6517-6208-4dfd-8ecb-5dbeb1949124)
+## continue
 # 6차시, 함수
 
 # 7차시, 클래스
