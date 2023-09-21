@@ -110,7 +110,7 @@
 
 ![image](https://github.com/hsy0511/learningmate/assets/104752580/13b4c251-f740-44f5-aaec-41c8f49d72f4)
 
--응용예제2
+- 응용예제2
 
 ![image](https://github.com/hsy0511/learningmate/assets/104752580/d3d40f80-5095-4ac1-8f0f-7ce8aec71fcc)
 
@@ -479,12 +479,344 @@
 - 응용예제
 
 ![image](https://github.com/hsy0511/learningmate/assets/104752580/20bd6517-6208-4dfd-8ecb-5dbeb1949124)
-## continue
+## continue문
+![image](https://github.com/hsy0511/learningmate/assets/104752580/8661f7cb-c91f-4845-a8ed-6c6d135336e2)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/9c205bd6-9fcf-418d-9df5-569ee3eb7a03)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/dd262f7f-24bd-4449-ac1b-56d39251aa04)
+## 중첩 for 루프와 if
+![image](https://github.com/hsy0511/learningmate/assets/104752580/a7f9a48a-1b5c-4322-bc76-2e315db79746)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/6e35aa4d-34b2-45e0-a9bb-328670e5a5f8)
+## 익혀보기
+![image](https://github.com/hsy0511/learningmate/assets/104752580/def79463-40c9-4a84-b3d9-e433d38fd1c5)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/e6208029-7a29-40a8-bb26-bc448fb3cff4)
+
 # 6차시, 함수
+## 학습 목표
+![image](https://github.com/hsy0511/learningmate/assets/104752580/85633b09-c7e5-4ed2-8f48-89e71a5bb322)
+## 함수(Function)란?
+![image](https://github.com/hsy0511/learningmate/assets/104752580/475dd859-58ad-457b-a442-c4ea0f2477c4)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/2ea082c2-7354-4159-a8b5-b002a8d34c88)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/9985c735-1b80-47a8-a11b-4cd212700e35)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/a806ded0-abd6-46dd-a676-239e4930cbee)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/7cf3d5fe-455f-4d7c-b31d-2a4a0aa8ea71)
+## 함수의 호출
+![image](https://github.com/hsy0511/learningmate/assets/104752580/5f1a0081-63cb-4c83-b6d7-e5be9afbe136)
+## 함수의 리턴
+![image](https://github.com/hsy0511/learningmate/assets/104752580/eac2e207-63d5-4451-ae5b-f018cd4cd652)
+
+- 기본예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/b4eaa4a4-5537-491d-b78f-704eda08be9a)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/96b1f08c-6049-462f-868c-1be7c2bb08b4)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/5bc6f3b7-ef1b-4989-a517-9b16d7495a68)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/7aa128d8-7530-49ce-8d03-25bae398da9e)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/8bfbd846-eca8-4ddf-ae8b-3e87ef92bce1)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/05fda0dd-75e9-472c-8436-45199d5db55a)
+## Python의 함수(function) 정의
+![image](https://github.com/hsy0511/learningmate/assets/104752580/cb2c8158-51c7-464b-9e84-c0f319608b63)
+## 함수의 argument 전달
+![image](https://github.com/hsy0511/learningmate/assets/104752580/d8f088de-96f6-45f6-b851-74e6d34ddffa)
+## 매개변수(파라미터)
+![image](https://github.com/hsy0511/learningmate/assets/104752580/ce6cb792-2295-49c1-bd98-5d66a4c20481)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/08c92528-c1c6-49ab-868a-a362647f8f23)
+
+- 기본예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/d25e8295-f6bd-4bf4-a818-adbfaa254485)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/895abacf-c2f3-4034-b474-1bfe366688eb)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/b85e0b40-584a-4e4c-9a42-3d8e1951f48e)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/4c10d959-6520-465b-9a14-ddc9426d9393)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/a45c8a03-50af-4c36-a3b7-21dd7a2a5ff2)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/aa39e935-bc1e-4b44-98d0-6c792f3f5a2f)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/109fc6ae-6ca3-4bbe-a9a9-d8afe8885046)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/da51b8a1-ee00-434e-8b3b-209c4d6ad104)
+## 주의사항
+![image](https://github.com/hsy0511/learningmate/assets/104752580/8b4bd44e-2478-4735-bad3-511a7cbe898b)
+## 파라미터에(**변수)와 같은 형태의 인자가 있다면?
+![image](https://github.com/hsy0511/learningmate/assets/104752580/7ceff8f9-6e55-4f59-b1d9-bf9daf424107)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/b9d79cc0-04ef-4612-8bbe-099343871deb)
+## 람다함수란?
+![image](https://github.com/hsy0511/learningmate/assets/104752580/96132792-b469-4621-a950-78b7dc12e3a5)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/31513291-e80e-4a30-a18e-20c5bec4f0b4)
+
+- 기본예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/d9f9bba9-1989-470b-a3ef-4e102f2d8a0c)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/519a16c1-6dbe-45c4-ac35-cb332ceb4381)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/e63e456e-12a8-438f-9ccc-55a8fd973cf8)
+## 고차함수(high-order function)란?
+![image](https://github.com/hsy0511/learningmate/assets/104752580/4180484f-b771-46b8-b779-3eef0720bd85)
+## 고차함수의 종류
+![image](https://github.com/hsy0511/learningmate/assets/104752580/b8fc979f-a14b-417a-8b54-9322a1b83a3a)
+
+- 기본예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/c69919c8-c9aa-4986-97cc-c556b63c0786)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/827f4e7b-11d1-45db-aaa4-67b454f5408a)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/a3ff7949-81c3-42d7-af6f-8c929b9c7cff)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/ae2c71d0-b907-4475-9ea9-565a07ae10bc)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/f05504d8-574f-47a4-b20e-20c0037fd88d)
+
+- 기본예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/683e6278-0605-444f-bc2f-179f1ebb6631)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/73fe5b1d-9e6e-4b6c-b167-a1593542ead1)
+
+- 기본예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/d5b08d18-10a2-4bcf-a79e-515b08f0d7e7)
+## 재귀함수(recursive)란?
+![image](https://github.com/hsy0511/learningmate/assets/104752580/ebbb59b5-e4bc-4a46-91bb-045f8df9ec95)
+
+- 기본예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/28eaac32-f09e-4744-9052-9d0ab924e616)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/d40f5893-193f-4f63-9947-632a98edc80c)
+## 스코핑 룰(scoping rule)
+![image](https://github.com/hsy0511/learningmate/assets/104752580/d5938945-a72d-4120-ab39-7fe123be4aca)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/187e75d1-af2b-42fe-8c74-56bc0a40e7d6)
+
+- 기본예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/90e67235-6d72-43bf-94a4-a0acd4f78111)
+## 주의 사항
+![image](https://github.com/hsy0511/learningmate/assets/104752580/d5e0f07b-74b8-4def-a66b-2f61eb7fe426)
+## 익혀보기
+![image](https://github.com/hsy0511/learningmate/assets/104752580/e32f6ba0-a99f-4efb-8de5-cf9e59636280)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/2e091b7a-8d0b-480b-bc5c-f6b6c2159667)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/aae43ff8-d49a-4e74-95ae-62d0cda1522a)
 
 # 7차시, 클래스
+## 학습 목표
+![image](https://github.com/hsy0511/learningmate/assets/104752580/4251433b-f427-46f3-bffc-dceed725dd15)
+## OOP(Object Programming)란?
+![image](https://github.com/hsy0511/learningmate/assets/104752580/cd4ebe7b-c38f-42b6-895e-fdd3461fc6bc)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/d4d10deb-fddd-4018-b7d2-620a8a1c6def)
+## 클래스(Class)와 객체란?
+![image](https://github.com/hsy0511/learningmate/assets/104752580/2d0a5199-7065-487a-84f5-e493afcea192)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/d8be5666-f849-403e-9ac7-038c866891dc)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/c588e98c-7a45-46bb-99dd-52b108b2b4c4)
+## 객체와 인스턴스
+![image](https://github.com/hsy0511/learningmate/assets/104752580/f2a2b2e7-acc1-44fe-a383-787881103c6d)
+## 클래스(Class)와 객체란?
+![image](https://github.com/hsy0511/learningmate/assets/104752580/1e985536-20ea-41a7-b457-124f858a1cb0)
+## 클래스의 특징
+![image](https://github.com/hsy0511/learningmate/assets/104752580/8336066f-54f4-4f71-a5c3-6ed6033b7b71)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/773c569a-9c90-429b-9a90-42016a526539)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/07b08f2b-19d2-45bc-9301-e54b06328ee7)
+## 클래스 선언
+![image](https://github.com/hsy0511/learningmate/assets/104752580/e1b614f2-4b7a-4083-8d6f-d31c2ac09471)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/edef48a2-0e92-4ba3-a317-069c74f1b30c)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/dbd31caa-5e22-4bd5-8686-b1d7dcdfbff7)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/90b0dbe9-90b4-41d7-96bb-7b511ba52ba2)
+## 메소드에 지정하는 self의 의미
+![image](https://github.com/hsy0511/learningmate/assets/104752580/50c78eca-ecef-4881-96f1-d72b1645dedc)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/a4a5db98-b101-46f4-95da-6e59dfff3968)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/e387927a-a712-40c6-bc3e-6299b73e3e18)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/82bf2eb7-eade-482d-adf7-42e324a34bcc)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/bafb81cf-db12-40ba-892c-f745c6849a9a)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/9b418f47-347a-4100-9837-a905b4c766ae)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/ac534ca9-8abf-42b2-815c-8b1d5b443676)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/90c3349b-437f-459e-a3bd-96604c773889)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/2ef4a0b6-0584-4df7-99a6-42de9c23b9a6)
+## 파이썬 접근권한
+![image](https://github.com/hsy0511/learningmate/assets/104752580/1677e73f-bad6-4540-8558-d13aa78ff8a3)
+## __class__를 통한 클래스 객체 참조
+![image](https://github.com/hsy0511/learningmate/assets/104752580/53e74b40-3c50-4498-9f60-5a63de30456d)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/9ac98e75-b5f5-4dd7-be0f-3eb6cd3d793a)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/2dbaafce-4f61-4017-afce-605ba27295b1)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/29173dbc-4d6f-4e88-9335-2fb940ed875a)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/c7d60554-f0b1-4a09-971b-c3247c6c4b2d)
+## 클래스의 내장함수란?
+![image](https://github.com/hsy0511/learningmate/assets/104752580/5cababdc-da67-4249-b60f-058d41744253)
+## 생성자와 소멸자
+![image](https://github.com/hsy0511/learningmate/assets/104752580/21ade7f7-b849-4c84-b987-5e8eee5b1f1d)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/7c7586aa-35cc-46e9-91d4-ac939a473b19)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/189a4d2c-f73a-426f-a58f-15548317ffce)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/380c4c02-f26d-4d27-8cfc-9f97d4b334f9)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/7426a789-6921-4074-b960-d5375f5bc4fa)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/af00b8c9-4577-4d69-9e0f-a43fea6afa21)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/3713c6ef-0a0a-4457-b7af-b2282d080ab9)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/32a768a4-b091-4136-8947-9b5292639dbf)
+## 연산자 오버로딩(Operator Overloading)
+![image](https://github.com/hsy0511/learningmate/assets/104752580/88ebe9f7-40c1-4103-b029-68048b86e485)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/09245881-40bc-4ea9-b582-fbd8ea7fac1b)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/aceb9ea8-09aa-4f53-a068-8e4d1955d735)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/21c4bb7f-f535-4e4e-9ff5-3e832041484b)
+## 익혀보기
+![image](https://github.com/hsy0511/learningmate/assets/104752580/4ea24f58-c204-4ef4-a5b1-1bdec214efba)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/78b36509-297d-49f3-b651-a0557e3722c1)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/4efa0ef8-79b4-4b7a-96bc-2854a24b5dfe)
 
 # 8차시, 상속과 다형성
+## 학습 목표
+![image](https://github.com/hsy0511/learningmate/assets/104752580/de89c867-17ac-46a1-8e8d-9564f89babdf)
+## 상속(inheritance)
+![image](https://github.com/hsy0511/learningmate/assets/104752580/e001a355-b0c1-4b1a-92d6-c216aa9a29e8)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/a271cf0c-1bb9-43f8-ae47-e884deaa7f7a)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/116313d5-2daa-4633-b3dd-5983eb78ed1f)
+
+- 기본예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/52292c4b-d5ca-4b03-9cf8-0d267ea4a1ae)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/9e21ab0f-44b0-4303-8fbf-97594da56925)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/0103c396-9497-4d9d-b185-e4f422f3b3f1)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/c93187e2-a9c5-4425-b256-13f5a506275d)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/abe40241-d385-4e78-b938-cbcc4146574a)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/10e290e1-e7da-4767-a562-22eac6299607)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/9f04dbfd-86c0-4c1b-8531-b64c7f04793f)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/68928da7-593a-4dfc-8c45-0c1a7d8af4da)
+## super() 키워드
+![image](https://github.com/hsy0511/learningmate/assets/104752580/53dc2076-c74c-4f0a-85db-9343b6c67cbb)
+
+- 기본예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/ef6fb150-a692-44e5-804a-6f8552086568)
+## 오버라이딩(Overriding)
+![image](https://github.com/hsy0511/learningmate/assets/104752580/d0ef58c7-a402-4e98-90df-475200ae70f9)
+
+- 기본예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/3c3a85fb-5091-4a5d-8171-e78b47cf9f43)
+## 다중상속
+![image](https://github.com/hsy0511/learningmate/assets/104752580/691aa6a0-89f8-4101-b46a-8196cd3d3c4e)
+
+- 기본예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/d677a922-e67f-49b7-8ea2-409206f17c98)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/6dbc1d92-9243-41b2-86f3-7f119e282354)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/e5baaf3b-68ef-45f0-92ea-83cc02ca6ba3)
+## 다형성(polymorphism)이란?
+![image](https://github.com/hsy0511/learningmate/assets/104752580/2cbe60aa-060c-457f-8457-57e11d1c0ab4)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/b938e4c5-d387-4ceb-a7d8-00e5be8d62a1)
+## 상속의 유형
+![image](https://github.com/hsy0511/learningmate/assets/104752580/16bf4ed9-3827-44a1-99e0-4a3ca8de5534)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/24049e80-2aad-42fd-befb-fbd3126b1838)
+## 추상 클래스
+![image](https://github.com/hsy0511/learningmate/assets/104752580/64885164-f20c-497d-88d3-b808e7da135c)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/f58a235e-4ab5-411a-9d57-7d9a5723d1c1)
+## 장식자(decorator)
+![image](https://github.com/hsy0511/learningmate/assets/104752580/3d14ed26-1bec-43a4-8f83-49e436a02a85)
+
+- 기본예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/c925d5ee-b030-4a29-995e-ac5f3eb3e177)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/7b818fe9-d825-4564-a8cb-3b732c8e89f7)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/55112e5a-2e45-4105-9c2a-27c202dd9431)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/f187c1c9-f838-4cef-9ba2-d71d77004219)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/8a6a2361-ac0b-4a18-92f9-cccd024f0e39)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/db7292e4-e95b-4e7a-92cf-cd78b8e8e502)
+## 익혀보기
+![image](https://github.com/hsy0511/learningmate/assets/104752580/ca2a7a35-01a9-4ca0-93f6-f7ac8c09ef35)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/ee0a1f6a-36cd-47f9-bb91-77f463a5af9b)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/dc65e143-2a8f-47d1-9793-8a0573095361)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/1e5fa3f7-28c4-4f45-9c0c-bdabe52ab351)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/cf80e354-031f-418e-a3e8-4446e005e426)
 
 # 9차시, 모듈
 
