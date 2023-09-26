@@ -1,4 +1,4 @@
-![image](https://github.com/hsy0511/learningmate/assets/104752580/4a55891b-8895-4895-926b-0d30058c096e)![image](https://github.com/hsy0511/learningmate/assets/104752580/45aecd0d-040e-4e4a-a8c9-968db92e3308)# learningmate
+# learningmate
 
 # 1차시, Getting Start Python
 
