@@ -1,4 +1,4 @@
-# learningmate
+![image](https://github.com/hsy0511/learningmate/assets/104752580/9a6e5ad9-46b2-4ff6-a0d8-069a8bee7cb0)![image](https://github.com/hsy0511/learningmate/assets/104752580/f63eaaa5-7474-4db0-9b1a-5fedf1bb5a3a)# learningmate
 
 # 1차시, Getting Start Python
 
@@ -1296,7 +1296,398 @@
 # 14차시, 데이터베이스
 ## 학습목표
 ![image](https://github.com/hsy0511/learningmate/assets/104752580/67fd3a6c-c73c-4aa3-9f85-ee6be28c0299)
+## SQLite3란?
+![image](https://github.com/hsy0511/learningmate/assets/104752580/b34ccf2a-25f8-469a-92c0-ff34244d54fb)
+## SQLite3의 장단점
+![image](https://github.com/hsy0511/learningmate/assets/104752580/0fff30d3-8396-49aa-8d24-98d7c13f05c1)
 
-# 15차시, GUI툴킷 Tkinter
+![image](https://github.com/hsy0511/learningmate/assets/104752580/8409c1c4-95b0-468d-8d20-338c42a60080)
+## SQLite3의 구문
+![image](https://github.com/hsy0511/learningmate/assets/104752580/2396bc95-1a24-4d02-a603-e478716c1d6e)
+## SQLite3 모듈
+![image](https://github.com/hsy0511/learningmate/assets/104752580/4053886d-6f75-4dd6-bcb6-30c2a112d74c)
+## PYSQLite 모듈 함수
+![image](https://github.com/hsy0511/learningmate/assets/104752580/46813a31-e7b7-47fa-8df3-69daca12d93b)
+## Connection 클래스
+![image](https://github.com/hsy0511/learningmate/assets/104752580/e29af912-6cfa-42da-a474-a9659b828547)
+## Curse 클래스
+![image](https://github.com/hsy0511/learningmate/assets/104752580/5bb829e1-19ab-4f3f-b13b-f2896a67d8e7)
+## Row 클래스 
+![image](https://github.com/hsy0511/learningmate/assets/104752580/0af395fd-8b5b-4e1e-9157-a22a76584ce0)
+## SQLite3를 이용한 데이터 연동 순서
+![image](https://github.com/hsy0511/learningmate/assets/104752580/4a1fefee-afcc-4d2c-83b3-82bc543bcda9)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/67660e6a-d4ec-47cc-8c27-3ccd78fd2b52)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/c84b2b64-6283-4b14-b0e7-fb9edb5b4ef6)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/d73b02fb-a841-421f-9fc3-ca21453b4cf3)
+### SQLite3의 자료형
+![image](https://github.com/hsy0511/learningmate/assets/104752580/1018645a-7362-473c-92c7-a8b96c3380b7)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/4fa8c1e4-5efa-42c6-ac61-78482f1e4572)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/ef4636f5-3afe-47bd-8562-5198ae76aad9)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/f29219b8-4497-446f-ae45-290f570ff316)
+## SQLite3의 내장집계
+![image](https://github.com/hsy0511/learningmate/assets/104752580/484fd424-a920-4187-9d3e-88a0d1446e82)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/79a77f6a-d35d-439f-a02e-4e08065235e8)
+## 집계함수를 이용한 쿼리
+![image](https://github.com/hsy0511/learningmate/assets/104752580/e8200e0c-1d74-46fe-a99a-e0d4a09d6386)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/dc17cda3-4250-4c3c-9e7d-d2b263915001)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/10279be5-7ea1-43b2-a747-ff44a8977459)
+## CSV(Comma Separated Values)란?
+![image](https://github.com/hsy0511/learningmate/assets/104752580/ff2e25c1-6836-4196-a92e-2630a1027517)
+## CSV 모듈
+![image](https://github.com/hsy0511/learningmate/assets/104752580/540c54ab-bfee-4878-846e-7a61a78ec32c)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/853b20ac-ae76-488d-92a9-82384e14f1d9)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/476ffdaa-dc9d-4bf4-b0a1-101bf9df8d9d)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/5bfd26f7-095a-4cae-a310-e27632bc0e75)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/d2348eaa-78f0-483b-89db-485f962899cb)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/1c8e33c5-ed37-43cd-8ba6-28a81d81913a)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/516e91d9-969a-4a40-ab61-125d1cb0e930)
+## CSV를 이용한 쿼트
+![image](https://github.com/hsy0511/learningmate/assets/104752580/6ad8e089-2096-4366-b628-09e17a7d583b)
+## CSV를 이용한 쿼트와 구분자 지정
+![image](https://github.com/hsy0511/learningmate/assets/104752580/e3e1d7e2-30a8-49b8-9017-413d28aa0fda)
+## Dialect의 특성
+![image](https://github.com/hsy0511/learningmate/assets/104752580/634880cf-7462-4e71-90a4-4e169d0d339a)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/78d7be95-d32d-4273-8f16-23bcb14df3d9)
+## 익혀보기
+![image](https://github.com/hsy0511/learningmate/assets/104752580/a81ed104-30cd-4f61-98bd-d128d534240f)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/ac59c3b9-0075-46f4-b8fb-663663d196ad)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/094dee78-b5bc-42f5-a70e-9b0b659f25fd)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/cbf94ce3-7531-41bc-9288-ec83109a923a)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/cec2c4b9-56c8-41d7-8bcb-36a508016ef6)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/5a8a42c3-6384-4bce-b5a0-4d62cdccebff)
+
+# 15차시, UI툴킷 Tkinter
+## 학습 목표
+![image](https://github.com/hsy0511/learningmate/assets/104752580/bcda3b12-21ac-47bb-be23-2d0405b93ddf)
+## Tkinter
+![image](https://github.com/hsy0511/learningmate/assets/104752580/9eca3df4-2d4d-4dd9-9f9a-c960e44b9f1b)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/230d4de6-731c-44f2-a1c2-1ba4d87d21d0)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/2aad5c88-efb1-47a4-9063-b6787fadc14f)
+
+## Tcl/Tk
+![image](https://github.com/hsy0511/learningmate/assets/104752580/b934dee9-554a-4cdd-b39b-8c073b22b1ef)
+## GUI 주요 용어
+![image](https://github.com/hsy0511/learningmate/assets/104752580/12bdbd7e-8ba5-4b3b-b927-320ef0a65a2f)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/b43aca36-bc35-4c26-8928-80e028c3a149)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/c233c1b2-84d9-4b37-8a75-12306284a6f0)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/3e5730ac-995c-42e8-b733-1e110056ff90)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/2f17c683-74e9-48d9-a21c-192357289e6d)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/6e620b8a-133d-4f84-9b89-fa98410d503c)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/41a08318-2b12-41be-aca2-122a41a915ea)
+## Tkinter의 기초
+![image](https://github.com/hsy0511/learningmate/assets/104752580/6183360f-4870-4a40-aaf7-06b935517a73)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/f2869827-c894-43a1-9cc8-bbbd92a7a1c4)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/32f9f9d1-bb4a-4616-a7a5-c40456b82de5)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/a8da4567-0896-468c-9801-a9d21c19b934)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/f478ebcc-661d-4039-9503-8ce786135774)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/670d7c90-d21a-4253-a306-ca53230ef4ac)
+## 위젯(widget) 생성
+![image](https://github.com/hsy0511/learningmate/assets/104752580/26a68235-3842-4d63-9790-6bf94cb3976c)
+## 위젯의 공통 속성
+![image](https://github.com/hsy0511/learningmate/assets/104752580/2c88ae55-ba1b-4d87-942d-9f207ded5acd)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/2dfc92bb-ce43-4791-a4db-ac5876f79616)
+## 위젯 공통 메소드
+![image](https://github.com/hsy0511/learningmate/assets/104752580/17cb44f3-c3df-4615-9ba4-011bc38cda99)
+## 위젯의 색상과 스케일
+![image](https://github.com/hsy0511/learningmate/assets/104752580/f8aac9de-6f94-464a-b4f4-969890aa680f)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/28243ba3-b561-4627-92a0-5a96e2fe6e4f)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/a846c678-d33b-4af0-8b27-29a140c8efb3)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/86de46dd-a254-4e82-9e83-3522af768155)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/acfa2e3d-7be1-48c8-89b4-88a289bfda24)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/f0488372-c1bd-4fbe-8848-1a9197cb626c)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/0191355a-6de1-4699-a9b4-cbabeeac98e8)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/1d7b2a76-e9bd-46d9-944a-7127f1a7552a)
+## 위젯의 글꼴 형식
+![image](https://github.com/hsy0511/learningmate/assets/104752580/eb0d148e-8216-4c92-bfa3-03390d1386bf)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/a8b20c24-b85b-4acd-a7e3-6aab95ce18ec)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/7de286a3-b530-4d65-a57a-73258e54cc26)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/6bc532f7-75f4-4983-b9b8-09c522660832)
+## 응용 프로그램 글꼴 변경
+![image](https://github.com/hsy0511/learningmate/assets/104752580/777dfd80-df63-4eb4-9e6f-89ca637c302a)
+## 메뉴 만드는 방범
+![image](https://github.com/hsy0511/learningmate/assets/104752580/3e9e173b-ac6b-4ec5-8b7f-ea0840157980)
+## 메뉴바를 이용한 프로그램
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/5cbd7284-4862-4dc7-afbd-ce655e53f310)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/c81a5153-ad84-436c-ab44-851da0de6754)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/47eaf1da-3aa6-426e-afe1-8beaa0be8a81)
+## Entry 위젯
+![image](https://github.com/hsy0511/learningmate/assets/104752580/33441079-ce9f-4ba5-9b60-332ff5550553)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/e42d9abb-2939-4fcd-918e-0435f62502c8)
+
+- 기본예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/ba6f19aa-1344-46f9-b35d-aaa361ab09e0)
+## bind() 메소드 구문
+![image](https://github.com/hsy0511/learningmate/assets/104752580/145a38ef-7da1-4148-9b8e-3cc6ee00706a)
+## 이벤트 지정
+![image](https://github.com/hsy0511/learningmate/assets/104752580/c9ac2568-723d-4a99-81cf-b7967923be69)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/26c846e8-4db1-48e1-890a-4b3ac4becf39)
+## modifier
+![image](https://github.com/hsy0511/learningmate/assets/104752580/1fdd256d-019a-4752-b46b-6c5b75aadc2e)
+## 이벤트에 대한 자세한 정보
+![image](https://github.com/hsy0511/learningmate/assets/104752580/5bd63c84-7890-4e98-b98d-03df18b69026)
+
+- 기본예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/87be7995-50f2-4840-ae47-303690e02fbb)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/570c71c1-d291-427a-a308-2bf67fa6b19a)
+## 목록상자와 스크롤
+![image](https://github.com/hsy0511/learningmate/assets/104752580/54ac8f0b-087e-4a37-965f-cc66b8ea21d3)
+## 선택 모드 지정
+![image](https://github.com/hsy0511/learningmate/assets/104752580/ffe91b19-7d09-44f6-b54e-b7f6750140c2)
+## 데이터의 삽입, 삭제, 검색 및 매개인자의 위치 지정
+![image](https://github.com/hsy0511/learningmate/assets/104752580/7c6a241a-196c-4177-a047-bd0753330465)
+## 매개인자 위치 지정
+![image](https://github.com/hsy0511/learningmate/assets/104752580/b4ea1e6c-db24-4664-a445-169055dbcba3)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/615eb984-8f24-4cfa-b340-431542760e9d)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/98fbc537-cce1-48e2-8cb6-1ba356694e7e)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/8be80ae9-a0ef-470c-befd-037be3774e51)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/26e7ff21-de83-4c92-a195-ed02d4e1560e)
+## grid()
+![image](https://github.com/hsy0511/learningmate/assets/104752580/00cac315-fd67-48b7-a337-5238a26dd2eb)
+## sticky
+![image](https://github.com/hsy0511/learningmate/assets/104752580/a8df3cc5-de5f-4e8f-86f8-a77f1b94b92a)
+## 체크 버튼과 라디오 버튼
+![image](https://github.com/hsy0511/learningmate/assets/104752580/90ce211c-8312-4805-8168-b7b369f99754)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/76d19b25-add4-4503-8cd1-a2f1f6042ce5)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/5c5cb858-f89e-48e8-929e-0a8a22487068)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/5a7c123d-f4cd-4e98-b663-f867bca9ee58)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/63298762-8e0b-44b9-b102-38577050bebb)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/629868f9-62fe-4885-9c0f-59a96331de0a)
+## 익혀보기
+![image](https://github.com/hsy0511/learningmate/assets/104752580/bc648e11-6358-4bb9-90ff-b75bb4e1cb32)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/b724517e-20e3-44cf-83ea-3381230fffc3)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/c1957dff-e37c-491b-862a-84aff0231e8c)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/4ecc2cec-a4a1-42db-a063-099183ade6fe)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/4aee3e6e-979a-49d0-98f7-71d1e860797e)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/40345825-9e13-4436-8ead-e9128929ef31)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/20a8faa8-1e7d-4b3a-8f12-7c992063a6b4)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/48ec50bc-0f65-406f-97b5-f7e3f7abaee1)
 
 # 16차시, Tkinter와 차트 
+## 학습 목표
+![image](https://github.com/hsy0511/learningmate/assets/104752580/513a32ef-f442-4654-a5d3-c797742bbf1a)
+## 캔버스(canvas) 위젯
+![image](https://github.com/hsy0511/learningmate/assets/104752580/8a49a8cb-a193-436e-b98f-70a44a3ee36c)
+
+- 기본예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/2f344f8a-cb3f-493a-847f-9acda7169dbe)
+## 도형 생성 메소드
+![image](https://github.com/hsy0511/learningmate/assets/104752580/4dc81f21-5d35-4655-a04a-4918d319550d)
+
+- 기본예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/c746a5f5-d8f8-45ed-a8e4-79802b9a9193)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/1fc7c727-c4bd-4aec-a2cb-273359295b05)
+## itemconfigure()의 매개인자
+![image](https://github.com/hsy0511/learningmate/assets/104752580/15395cee-2136-4a74-83a8-28999074cbda)
+## 사각형, 다각형 그리기
+![image](https://github.com/hsy0511/learningmate/assets/104752580/d2631ca5-0f31-4a4b-9e05-79d922f3ca99)
+
+- 기본예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/b4d9edc8-3d54-4206-8299-71470d365fc8)
+## 원호 그리기
+![image](https://github.com/hsy0511/learningmate/assets/104752580/d2243160-6444-4676-bb95-06f01a8f2983)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/9a44b22e-ac4f-4744-8371-8c7b6ad1f542)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/cc36f179-9bc0-494c-b4b1-7d2306be579e)
+
+- 기본예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/1f3c678c-39fa-4001-a1e3-ddf085b8dd24)
+## 문자열 선언과 옵션
+![image](https://github.com/hsy0511/learningmate/assets/104752580/1b1af0a1-42c6-43c3-a2e3-348f76942ae9)
+## create_window()
+![image](https://github.com/hsy0511/learningmate/assets/104752580/7d877bc1-720a-41f6-a353-a627f9df5900)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/595d3231-5e8e-4450-b8be-1a45bc97ea9c)
+## 태그와 바인딩
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/a9c25d9f-43c7-4611-8509-f3179ef64473)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/30cb264b-73d1-453f-8673-b313f9b1b191)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/89512063-58b8-4251-b4b2-e737aa863feb)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/94a2844c-0bc6-47aa-9d5b-1fc74ef952b5)
+## 태그로 도형 설정하기
+![image](https://github.com/hsy0511/learningmate/assets/104752580/3051a021-65c4-49d4-876b-4990a33a11e0)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/f13b1abb-cdc0-4fac-a4b8-8278262a9515)
+## 이미지 생성 및 처리
+![image](https://github.com/hsy0511/learningmate/assets/104752580/608b71bb-8d67-4963-8bfc-7a9f7d0affe9)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/6b27c31d-e618-4ed2-832d-6d270b99fc7a)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/ada74d01-41a0-41c1-afde-e34bfa079775)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/449608f2-e2a5-4945-b775-652120910195)
+## fileDialog
+![image](https://github.com/hsy0511/learningmate/assets/104752580/e9961221-fdaa-432b-b729-4d9db587a42e)
+## 파일 다이얼로그
+![image](https://github.com/hsy0511/learningmate/assets/104752580/e9f154a9-d0b8-4711-a3d9-9c36c8efac21)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/8c9ee639-f86b-4daf-8ed9-da128ef940dd)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/2d682551-128e-4fb1-ae13-5c5b0290d612)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/f4c0ac9d-02cc-4f25-86b9-e7d4fbf75b4a)
+## dialog 위젯
+![image](https://github.com/hsy0511/learningmate/assets/104752580/640e1e38-1ba6-488c-8a68-d6b89206bd51)
+## messagebox 메소드
+![image](https://github.com/hsy0511/learningmate/assets/104752580/16d4493d-bc09-43a4-a3e4-af16bef1cb45)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/c8db8e5f-f503-43db-aa5c-8b1cb7bc0425)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/27b74056-95fa-4b9b-ba47-a9c724f17636)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/90fea966-7ea0-4aaf-9d49-0bf33c283c31)
+## dialog()의 옵션
+![image](https://github.com/hsy0511/learningmate/assets/104752580/496df8ad-883e-45a0-ab38-deafefa1a30d)
+## bitmap
+![image](https://github.com/hsy0511/learningmate/assets/104752580/b120b100-d702-460b-8b44-0efd24ea0576)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/e0d524a5-e03b-49d3-8a81-2f9283adb6bc)
+## SVG(Scalable Vector graphics) 차트
+![image](https://github.com/hsy0511/learningmate/assets/104752580/aacfe1b7-d9ee-4039-b95f-6a16d6965959)
+## pygal 차트 종류
+![image](https://github.com/hsy0511/learningmate/assets/104752580/cc7f6128-24eb-453a-aa60-a30fb3363993)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/cad0120f-e1c9-4863-afda-be531aa2dcb5)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/b8d63322-6714-4b49-932d-57ecec9f5aff)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/adbb1449-bb62-496b-9c8a-3b4fa8eea84d)
+## 기타 차트 프로그램
+![image](https://github.com/hsy0511/learningmate/assets/104752580/ae710707-6180-4712-9b99-deefff1a993f)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/a2827710-feb6-421c-8054-021d7998547d)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/914e97fc-7a5b-4666-9b9b-874d36a75933)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/f593c239-9fee-4988-893a-2fabe8b8efe7)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/4f41337e-5c32-41b7-9471-5434f8226212)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/dfb994f6-2887-416c-b66b-dcb6d0a8208a)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/a1b4d410-94d9-4457-bd8b-ba4f353b02d8)
+## 익혀보기
+![image](https://github.com/hsy0511/learningmate/assets/104752580/c076eace-c917-4603-8f52-bd8e82c52439)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/be58d077-e15c-4ccf-899d-ee3735759214)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/6dadce74-e61a-4bdb-9238-4108e9d7bc2b)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/6dbe7915-b04d-4433-8972-17a3073cb5e3)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/a20c8e26-048c-4547-a1e9-80d48bc33539)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/0ef3789b-fb16-4dc4-808c-93032c93e23d)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/3ae56f5e-da87-4da9-ba2b-48856c197872)
