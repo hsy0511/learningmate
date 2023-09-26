@@ -1218,8 +1218,84 @@
 ![image](https://github.com/hsy0511/learningmate/assets/104752580/267f0caf-bd57-4ac8-a22f-e4b0fd2ab048)
 
 # 13차시, 네트워크
+## 학습 목표
+![image](https://github.com/hsy0511/learningmate/assets/104752580/08e43b18-460e-467c-a1d3-707162e14717)
+## TCP/IP 프로토콜
+![image](https://github.com/hsy0511/learningmate/assets/104752580/aaada62d-6e6b-4a59-9885-f6bae0b757cb)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/59ebe0d3-49df-47cc-a9ce-9cb94cee7aa7)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/3c340588-b2cd-4192-9518-a8fa460c6125)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/e31f6362-c857-4bb7-bcfa-b18af2ad2a99)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/d90b1534-3b77-4455-999d-3f0c2cc5bb2b)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/f7225b2b-b3f2-4b98-b5de-74ad0b3be126)
+
+## TCP/IP 소켓(sockets) 모듈
+![image](https://github.com/hsy0511/learningmate/assets/104752580/3ca9cce7-d493-4e93-8347-ce17a8efe9de)
+## TCP 소켓 모듈
+![image](https://github.com/hsy0511/learningmate/assets/104752580/51ec93d5-b520-4e6e-b44c-59d5c21530f7)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/135e2076-4e9c-43c5-a9ae-8794c8e2298e)
+## scoket() 메소드
+![image](https://github.com/hsy0511/learningmate/assets/104752580/b881e272-1340-4f4b-801a-f626b07658bf)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/2189c239-7873-4d99-9543-b253833a37b9)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/3b008fb6-e374-4a33-ab8e-f050f77b3428)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/e66fbc11-c0a1-4dc0-a21a-0d3ce47a6fda)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/fa7dfdf1-2f97-40ec-a85b-522f9a14dbb2)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/7229f878-74fc-498f-bbf4-7323e9c67fb8)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/2b94352a-d0ee-40ce-9f6c-b598b52e038d)
+
+- 기본예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/eca052ba-293e-4a24-bd4a-cbe581385c01)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/e6b8a197-c131-4b64-8de2-450396aeca92)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/6802b458-d6ad-40b7-9039-2b7385bad6da)
+## 웹 클라이언트 모듈
+![image](https://github.com/hsy0511/learningmate/assets/104752580/e911ab86-3551-4892-86fd-03f48ff489af)
+## Urllib 라이브러리
+![image](https://github.com/hsy0511/learningmate/assets/104752580/dac5c580-6553-4c19-a9f3-199e5d48f61f)
+
+- 기본예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/4b371b6b-cdd8-4913-9a0b-c0a599f619d7)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/f38182d3-2fe8-4744-aeec-0a495e5c711d)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/e887b8cc-8ba6-4cfe-9d61-2cd98e53ad8b)
+
+## http 모듈
+![image](https://github.com/hsy0511/learningmate/assets/104752580/fe9ed310-0253-4cda-ac4f-1537bcae2376)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/8a6e0099-e8d3-4cb1-a21b-17eb9b1642bb)
+
+- 기본예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/8db5f1cd-b31e-4129-8be5-68e30c14454b)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/1688fcdd-ff20-4ebe-aacc-b23e0248da50)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/6e554cd1-4041-40d0-9cb2-ef61f05c6cbf)
+## 익혀보기
+![image](https://github.com/hsy0511/learningmate/assets/104752580/ec5361b8-6220-4010-9345-ae3d47eedf13)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/762be012-d698-4e50-89a3-e15601f55fd8)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/70dbf1b5-d39b-4615-bf42-1266d7207876)
 
 # 14차시, 데이터베이스
+## 학습목표
+![image](https://github.com/hsy0511/learningmate/assets/104752580/67fd3a6c-c73c-4aa3-9f85-ee6be28c0299)
 
 # 15차시, GUI툴킷 Tkinter
 
