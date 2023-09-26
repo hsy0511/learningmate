@@ -819,6 +819,8 @@
 ![image](https://github.com/hsy0511/learningmate/assets/104752580/cf80e354-031f-418e-a3e8-4446e005e426)
 
 # 9차시, 모듈
+## 학습 목표
+![image](https://github.com/hsy0511/learningmate/assets/104752580/57322992-a447-40e2-bf4e-ded152dcc08e)
 
 # 10차시, 예외처리
 
