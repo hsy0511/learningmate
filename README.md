@@ -1195,6 +1195,27 @@
 
 ![image](https://github.com/hsy0511/learningmate/assets/104752580/af77c6bc-f15d-45ce-9430-16f61bf12b1d)
 ## json의 공통 메소드
+![image](https://github.com/hsy0511/learningmate/assets/104752580/be47b2f3-8c28-497c-8585-b79e720c2131)
+
+- 응용예제
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/db76ca36-6e0a-4952-806e-c301d80ebeaf)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/4b612b6c-82d5-460e-a133-2c4878b2c9ea)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/0de1f2f3-c6dc-45a6-933d-118ecc251b77)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/837c0c22-9f38-474d-8865-a983ee69fbe6)
+## 익혀보기
+![image](https://github.com/hsy0511/learningmate/assets/104752580/2c889954-2888-4ce7-a29b-235820b4b889)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/65bb258e-39eb-46f0-85ff-29a174dd6b03)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/c0e11fa1-f3ae-4693-b3d0-f13a20a82c18)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/f7fb5447-a2f3-4d84-b03b-4ab47a5e48af)
+
+![image](https://github.com/hsy0511/learningmate/assets/104752580/267f0caf-bd57-4ac8-a22f-e4b0fd2ab048)
 
 # 13차시, 네트워크
 
